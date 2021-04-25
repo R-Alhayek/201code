@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    width: 400px;
+}
+nav ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+img {
+    width: 400px;
+}
+.style{
+    width: 500px;
+}
